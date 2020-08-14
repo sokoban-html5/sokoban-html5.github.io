@@ -1,2 +1,4 @@
-# sokoban-html5.github.io
-Sokoban HTML5 game
+# 推箱子游戏开发计划
+
+1. 网页版推箱子游戏
+2. 推箱子关卡管理器
